@@ -221,9 +221,11 @@ body {
      }
     
      .menu-column-abt {
-        margin-top: 35%;
+        margin-top: 27%;
+        padding-top: 20%
         padding-left: 10%;
         padding-right: 10%;
+        padding-bottom: 20%
         margin-bottom: 60%;  
     }
     
