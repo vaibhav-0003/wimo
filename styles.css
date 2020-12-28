@@ -221,9 +221,15 @@ body {
      }
     
      .menu-column-abt {
-        padding-top: 6%;
-        padding-left: 17%;
-        padding-right: 17%;
-        padding-bottom: 8%;  
+        padding-top: 12%;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-bottom: 60%;  
+    }
+    .abt-footer {
+        padding-top: 25%;
+        text-align: center;
+       color: #ffffff;
+       padding-bottom: 5%;
     }
   }
