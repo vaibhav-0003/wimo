@@ -222,12 +222,12 @@ body {
     
      .menu-column-abt {
         margin-top: 27%;
-        padding-left: 15%;
-        padding-right: 15%;
-        padding-bottom: 60%;  
+        padding-left: 10%;
+        padding-right: 10%;
+        margin-bottom: 60%;  
     }
     .abt-footer {
-        padding-top: 25%;
+        margin-top: 25%;
         text-align: center;
        color: #ffffff;
        padding-bottom: 5%;
