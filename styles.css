@@ -174,3 +174,13 @@ body {
     color: #ffffff;
     padding-bottom: 4%;
  }
+
+@media (max-width: 1028px) {
+
+    .menu-column {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 24px;
+        padding-bottom: 9%;
+      }
+  }
