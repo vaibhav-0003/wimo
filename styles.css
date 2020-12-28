@@ -111,6 +111,10 @@ body {
     
 }
 
+.white-section-abt {
+    text-align: center;
+}
+
 .menu-column-abt {
     padding-top: 6%;
     padding-left: 10%;
@@ -214,5 +218,12 @@ body {
 
     .about-sub {
         font-size: 1.5rem;
-         }
+     }
+    
+     .menu-column-abt {
+        padding-top: 6%;
+        padding-left: 17%;
+        padding-right: 17%;
+        padding-bottom: 8%;  
+    }
   }
