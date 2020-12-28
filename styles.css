@@ -1,0 +1,176 @@
+body {
+    background-image: url("images/home_bg.jpg");
+    background-size: cover;
+    background-position: center top 1%;
+    background-repeat: no-repeat;
+    min-width: 100%;
+    min-height: 100%;
+    height: auto;
+    
+}
+
+.clored-section{
+    background-color: #cb202e;   
+}
+
+.row {
+    text-align: center;
+}
+
+.row-about {
+    text-align: center;
+}
+
+.container-fluid{
+    padding: 0% 4%;
+}
+
+.navbar-brand {
+      
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+  
+.nav-item {
+    padding: 0 18px;
+}
+  
+.nav-link {
+    font-size: 1.2rem;
+    color: rgba(223, 223, 223, 0.658);
+    font-family: "Montserrat-Light";
+}
+
+.nav-link:hover {
+    color: #f0f0f0;
+}
+
+
+.social-iconx {
+    margin-top: 7px ;
+    color: rgba(196, 196, 196, 0.589);
+}
+
+.social-iconx:hover {
+    color: #f0f0f0;
+}
+
+
+  
+#selection {
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+  
+ .section-heading{
+    text-align: center;
+    color: #f0f0f0;
+}
+.section-subheading {
+    text-align: center;
+    color: #f0f0f0;
+    padding-bottom: 40px;
+}
+
+  .menu-text {
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+  
+  .menu-column {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 8%;
+  }
+
+  .card {
+      
+      background-color: rgba(255, 255, 255, 0.171);
+      padding: 1px;
+      border-radius: 5px;
+      backdrop-filter: blur(7px);
+      border: 0.1px solid transparent;
+      background-clip: padding-box;
+      box-shadow: 0px 0px 15px  0.7px  #b9b7ff;
+      
+  }
+
+  .card-about{
+   
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.041);
+    padding: 1px;
+    border-radius: 5px;
+    backdrop-filter: blur(30px);
+    border: 0.1px solid transparent;
+    background-clip: padding-box;
+    box-shadow: 0px 0px 15px  0.7px  #b9b7fff6;
+    
+}
+
+.menu-column-abt {
+    padding-top: 6%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 7%;
+    
+}
+
+  .card-header {
+    background-color: rgba(255, 255, 255, 0.411);
+    
+  }
+
+  .image-text {
+    color: #ffffff;
+  }
+
+  .image {
+      width: 9rem;
+      height: 10.6rem;
+      padding: 1% 1%;
+      
+  }
+
+  .snacksi {
+      width: 12rem;
+      height: 10.6rem;
+      
+  }
+
+  .zomato {
+    padding-top: 2px;
+    padding-bottom: 12%;
+      
+    text-align: center;
+       
+  }
+  .x {
+      color: #ffffff;
+      text-align: center;
+  }
+  .x:hover {
+    color: #df2929;
+    text-align: center;
+}
+
+.about-head {
+    padding-bottom: 6px;
+}
+
+  footer {
+    text-align: center;
+    color: #ffffff;
+    padding-top: 2%;
+    padding-bottom: 4%;
+  }
+
+ .abt-footer {
+     padding-top: 9%;
+     text-align: center;
+    color: #ffffff;
+    padding-bottom: 4%;
+ }
