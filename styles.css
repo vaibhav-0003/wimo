@@ -183,4 +183,21 @@ body {
         padding-top: 24px;
         padding-bottom: 9%;
       }
+    
+      .image {
+        width: 9.5rem;
+        height: 12.7rem;
+        padding: 1% 1%;
+        
+    }
+  
+    .snacksi {
+        width: 12.7rem;
+        height: 12.7rem; 
+    }
+
+    .image-text {
+        font-size: 1.6rem;
+        color: #ffffff;
+      }
   }
