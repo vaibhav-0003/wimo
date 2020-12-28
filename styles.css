@@ -176,10 +176,16 @@ body {
  }
 
 @media (max-width: 1028px) {
-
+    
+    .navbar-brand {
+      
+        font-family: 'Montserrat', sans-serif;
+        font-size: 3rem;
+        font-weight: bold;
+    }
     .menu-column {
-        padding-left: 10%;
-        padding-right: 10%;
+        padding-left: 15%;
+        padding-right: 15%;
         padding-top: 24px;
         padding-bottom: 9%;
       }
