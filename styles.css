@@ -238,10 +238,11 @@ body {
       }
     
     .abt-footer {
-        margin-top: 31%;
+        margin-top: 42%;
         font-size: 1rem;
         text-align: center;
        color: #ffffff;
-       padding-bottom: 5%;
+       padding-bottom: 9%;
+        margin-bottom:6%;
     }
   }
