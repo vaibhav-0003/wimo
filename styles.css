@@ -180,7 +180,7 @@ body {
     .navbar-brand {
       
         font-family: 'Montserrat', sans-serif;
-        font-size: 3rem;
+        font-size: 3.1rem;
         font-weight: bold;
     }
     .menu-column {
@@ -206,4 +206,13 @@ body {
         font-size: 1.6rem;
         color: #ffffff;
       }
+    
+     .about-head {
+        font-size: 2.8rem;
+        padding-bottom: 15px;
+    }
+
+    .about-sub {
+        font-size: 1.5rem;
+         }
   }
